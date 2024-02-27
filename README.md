@@ -1,15 +1,15 @@
-##การส่งงาน
+## การส่งงาน
 
-##application title
-##author:
+## application title
+## author:
 *id: ---
 *name: first last
-##technology:
+## technology:
  *[pygame/streamlit]
-##application description:
+## application description:
 *รายละเอียดโครงงาน
-##presentation:
+## presentation:
  *[slide/canva/etc..] link [public/ubu]
-##video:
+## video:
  *link [public/ubu]
 
