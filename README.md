@@ -25,7 +25,8 @@
  * โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อและการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
    
 ## presentation:
- * [[slide/canva/etc..](https://www.canva.com/design/DAF9_gG6QTE/H9OJYwZmQBwHGAIvNrOcSg/edit?utm_content=DAF9_gG6QTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAF9_gG6QTE/H9OJYwZmQBwHGAIvNrOcSg/edit?utm_content=DAF9_gG6QTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] link [public/ubu]
+ * [[[slide/canva/etc..](https://www.canva.com/design/DAF9_gG6QTE/H9OJYwZmQBwHGAIvNrOcSg/edit?utm_content=DAF9_gG6QTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAF9_gG6QTE/H9OJYwZmQBwHGAIvNrOcSg/edit?utm_content=DAF9_gG6QTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] link [public/ubu]
+   
 ## video:
  * link [public/ubu]
 
