@@ -7,7 +7,7 @@
   * name: Sudaporn Sanguandee
 ## technology: [pygame/streamlit]
 ## application description:
-เป็นแอปพลิเคชันเว็บที่ใช้ Streamlit เพื่อสร้างหน้าเว็บ "Perfect Shop" ซึ่งมีฟีเจอร์ต่างๆ ดังนี้
+    เป็นแอปพลิเคชันเว็บที่ใช้ Streamlit เพื่อสร้างหน้าเว็บ "Perfect Shop" ซึ่งมีฟีเจอร์ต่างๆ ดังนี้
 1. หน้าแรกแสดงโลโก้ของร้าน ("Perfect Shop") และโปรโมชั่น "SUSTAINABLE" พร้อมกับข้อความเชิญสั่งซื้อออนไลน์พร้อมโปรโมชั่น 15% สำหรับการสั่งซื้อครั้งแรก
 2. แสดงวิดีโอสำหรับตัวอย่างสินค้า
 3. แสดงแท็บที่ให้เลือกสินค้าแบบต่างๆ เช่น "Product type", "All Products", "Kitchen products" เป็นต้น
@@ -17,8 +17,8 @@
 7. หน้า "Create Account" มีฟอร์มให้กรอกข้อมูลสำหรับสร้างบัญชีใหม่ เช่น ชื่อ, อีเมล, รหัสผ่าน เป็นต้น
 8. หน้า "Order" มีฟอร์มให้เลือกสินค้าและปริมาณที่ต้องการสั่งซื้อ และสามารถยืนยันการสั่งซื้อได้
 9. หน้า "My Account" แสดงข้อมูลผู้ใช้ (ยังไม่มีข้อมูลผู้ใช้เนื่องจากต้องเข้าสู่ระบบก่อน)
-โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อและการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
+    โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อและการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
 ## presentation:
    [[slide/canva/etc..](https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] link [public/ubu]
 ## video:
-   link [public/ubu]
+   link [[public/ubu](https://www.canva.com/design/DAFi-3U5Cog/zOkwZApFEWwh7i_obryGsg/view?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)https://www.canva.com/design/DAFi-3U5Cog/zOkwZApFEWwh7i_obryGsg/view?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link&utm_source=recording_view]
