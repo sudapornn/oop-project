@@ -22,4 +22,4 @@
 ## presentation:
    link [[slide/canva/etc..](https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] 
 ## video:
-   link [[public/ubu](https://www.canva.com/design/DAFi-3U5Cog/zOkwZApFEWwh7i_obryGsg/view?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)https://www.canva.com/design/DAFi-3U5Cog/zOkwZApFEWwh7i_obryGsg/view?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link&utm_source=recording_view]
+   link [[public/ubu](https://drive.google.com/file/d/1tWNlLmFpTKr74DZ3m2lkeO5OjsaMStUP/view?usp=sharing)https://drive.google.com/file/d/1tWNlLmFpTKr74DZ3m2lkeO5OjsaMStUP/view?usp=sharing]
