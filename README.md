@@ -17,7 +17,8 @@
     7. หน้า "Create Account" มีฟอร์มให้กรอกข้อมูลสำหรับสร้างบัญชีใหม่ เช่น ชื่อ, อีเมล, รหัสผ่าน เป็นต้น
     8. หน้า "Order" มีฟอร์มให้เลือกสินค้าและปริมาณที่ต้องการสั่งซื้อ และสามารถยืนยันการสั่งซื้อได้
     9. หน้า "My Account" แสดงข้อมูลผู้ใช้ (ยังไม่มีข้อมูลผู้ใช้เนื่องจากต้องเข้าสู่ระบบก่อน)
-    โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อและการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
+    โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อ
+    และการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
 ## presentation:
    [[slide/canva/etc..](https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] link [public/ubu]
 ## video:
