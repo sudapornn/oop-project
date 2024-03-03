@@ -19,6 +19,16 @@
     9. หน้า "My Account" แสดงข้อมูลผู้ใช้ (ยังไม่มีข้อมูลผู้ใช้เนื่องจากต้องเข้าสู่ระบบก่อน)
     โดยรายละเอียดของแต่ละสินค้ารวมถึงราคาและภาพถูกนำเสนอไว้ในหน้าเว็บด้วยภาษา Python และไลบรารี Streamlit ส่วนฟอร์มสำหรับการสั่งซื้อ
     และการเข้าสู่ระบบถูกจัดการด้วย Python ด้วยการใช้งาน Streamlit
+    concept OOP ที่ใช้ในโครงงาน
+    1. การใช้งานคลาส
+    -ใช้คลาส Image จากโมดูล PIL (Python Imaging Library) เพื่อโหลดภาพและปรับขนาดของภาพ
+    -ใช้คลาส st จากโมดูล Streamlit เพื่อสร้างอินสแตนซ์ของอ็อบเจ็กต์ Streamlit เพื่อสร้างเว็บแอปพลิเคชัน
+    2. การใช้งานเมทอด
+    -st.header(), st.subheader(), st.markdown(), st.image(), st.video(), st.sidebar.selectbox(), st.sidebar.text_input(), st.sidebar.button(), st.sidebar.success(), 
+     st.sidebar.info(), st.sidebar.write(): เป็นเมอด     ของอ็อบเจ็กต์ Streamlit ที่ใช้สร้างส่วนต่าง ๆ ของเว็บแอปพลิเคชัน เช่น ส่วนของหัวเรื่อง, ภาพ, วิดีโอ, ปุ่ม, การแสดงข้อความ เป็นต้น
+    -Image.open(), resize(): เป็นเมทอดของอ็อบเจ็กต์ภาพที่โหลดจากโมดูล PIL เพื่อเปิดและปรับขนาดของภาพ
+    -button(), number_input(): เป็นเมทอดของอ็อบเจ็กต์ Streamlit ที่ใช้สร้างปุ่มและช่องใส่ข้อมูลเพื่อรับค่าจากผู้ใช้
+    3. การใช้ฟังชั่งหลักที่ชื่อว่า def main(): สร้างฟังก์ชันหลัก main() ซึ่งจะเป็นที่เริ่มต้นของโปรแกรม และใช้ if __name__ == "__main__": เช็คว่าโปรแกรมถูกเรียกใช้โดยตรงหรือไม่ หากถูกเรียกใช้โดยตรง main() จะถูกเรียกใช้เพื่อเริ่มการทำงานของโปรแกรมนี้ได้
 ## presentation:
    link [[slide/canva/etc..](https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFi-3U5Cog/QR6uZRP4p0JVILM6DPra6Q/edit?utm_content=DAFi-3U5Cog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] 
 ## video:
