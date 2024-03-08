@@ -1,5 +1,4 @@
 # OOP-Project
-[คลิปวิดีโอของฉัน](C:\Users\LENOVO\OneDrive\Pictures\รูปเว็บ\myvideo.mp4)
 
 # application title
   * Perfect Shop
